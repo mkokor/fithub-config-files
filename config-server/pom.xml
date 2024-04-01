@@ -11,14 +11,14 @@
 	</parent>
 	
 	<groupId>com.fithub.services.config</groupId>
-	<artifactId>fithub-dev-config-server</artifactId>
+	<artifactId>fithub-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>FitHub Development Configuration Server</name>
-	<description>FitHub Development Configuration Server</description>
+	<name>FitHub Configuration Server</name>
+	<description>FitHub Configuration Server</description>
 	
 	<properties>
 		<java.version>17</java.version>
-		<spring-cloud.version>2023.0.1</spring-cloud.version>
+		<spring-cloud.version>2023.0.0</spring-cloud.version>
 	</properties>
 	
 	<dependencies>
